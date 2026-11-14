@@ -3,3 +3,16 @@ As stated in the description, this is an open access library for the foundations
 ---
 ## Guidelines
 Submitted texts must include some indication as to their content in the first line subsequent to the header (a maximum of 5 keywords and/or 1 primary and no more than 3 secondary Mathematical Subject Classifiers from the MSC's most recent version may be provided for this purpose). Following this on the same line, the submitter must note the work's copyright status, author, and year of original publication. Submissions can be made via the owner's email address, and should have the subject line "Archive submission".
+The header's Markdown code is provided below:
+---
+title: ""
+author: ""
+year: 
+category: ""
+tags: []
+source: ""
+license: ""
+translator: "" # Optional: omit if original language or untranslated
+---
+
+# Title of the Work
