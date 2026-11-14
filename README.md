@@ -2,4 +2,4 @@
 As stated in the description, this is an open access library for the foundations and philosophy of mathematics*. (And theoretical computer science. If you don't like that, blame Curry and Howard.)
 ---
 ## Guidelines
-Submissions must be formatted in Markdown and LaTeX (if and only if the work in question makes use of formal symbols not found on a standard English-language North American keyboard). 
+Submitted texts must include some indication as to their content in the first line subsequent to the header (a maximum of 5 keywords and/or 1 primary and no more than 3 secondary Mathematical Subject Classifiers from the MSC's most recent version may be provided for this purpose). Following this on the same line, the submitter must note the work's copyright status, author, and year of original publication. Submissions can be made via the owner's email address, and should have the subject line "Archive submission".
